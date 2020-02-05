@@ -17,6 +17,7 @@
 		E8593B2623EB536500F872A4 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8593B2523EB536400F872A4 /* Helper.swift */; };
 		E8593B2823EB537300F872A4 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8593B2723EB537300F872A4 /* Menu.swift */; };
 		E8593B2A23EB538A00F872A4 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = E8593B2923EB538A00F872A4 /* menu.json */; };
+		E8593B2C23EB5CB000F872A4 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8593B2B23EB5CB000F872A4 /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		E8593B2523EB536400F872A4 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		E8593B2723EB537300F872A4 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		E8593B2923EB538A00F872A4 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
+		E8593B2B23EB5CB000F872A4 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				E8593B0E23EB52AA00F872A4 /* LaunchScreen.storyboard */,
 				E8593B1123EB52AA00F872A4 /* Info.plist */,
 				E8593B0B23EB52AA00F872A4 /* Preview Content */,
+				E8593B2B23EB5CB000F872A4 /* ItemRow.swift */,
 			);
 			path = SampleSwiftUI;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				E8593B0423EB52A500F872A4 /* AppDelegate.swift in Sources */,
 				E8593B0623EB52A500F872A4 /* SceneDelegate.swift in Sources */,
 				E8593B0823EB52A500F872A4 /* ContentView.swift in Sources */,
+				E8593B2C23EB5CB000F872A4 /* ItemRow.swift in Sources */,
 				E8593B2623EB536500F872A4 /* Helper.swift in Sources */,
 				E8593B2823EB537300F872A4 /* Menu.swift in Sources */,
 			);
